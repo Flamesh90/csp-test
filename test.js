@@ -1,1 +1,3 @@
-console.log("external script triggered");
+function runExternalScript(){
+  console.log("external script triggered");
+}
